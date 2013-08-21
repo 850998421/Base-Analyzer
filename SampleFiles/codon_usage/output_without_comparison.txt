@@ -1,0 +1,38 @@
+Sequence name :  AB000262 |acc=AB000262|descr=Homo sapiens mRNA for prepro cortistatin like peptide, complete cds.|len=560
+
+Phe	UUU	0	0.0	Ser	UCU	0	0.0	Tyr	UAU	3	2.0	Cys	UGU	0	0.0
+	UUC	0	0.0		UCC	0	0.0		UAC	0	0.0		UGC	0	0.0
+Leu	UUA	0	0.0		UCA	0	0.0	Stop	UAA	23	3.0	Stop	UGA	0	0.0
+	UUG	0	0.0		UCG	0	0.0		UAG	0	0.0	Trp	UGG	3	1.0
+	CUU	0	0.0	Pro	CCU	3	1.0	His	CAU	1	0.0	Arg	CGU	0	0.0
+	CUC	0	0.0		CCC	3	1.0		CAC	3	1.0		CGC	0	0.0
+	CUA	0	0.0		CCA	0	0.0	Gln	CAA	2	0.0		CAG	6	1.0
+	CUG	0	0.0		CCG	3	1.0		CAG	6	1.0		CGG	3	1.0
+Iso	AUU	0	0.0	Thr	ACU	0	0.0	Asn	AAU	14	2.0	Ser	AGU	0	0.0
+	AUC	0	0.0		ACC	0	0.0		AAC	0	0.0		AGC	3	6.0
+	AUA	23	3.0		ACA	0	0.0	Lys	AAA	57	1.0	Arg	AGA	3	1.0
+Met	AUG	0	0.0		ACG	0	0.0		AAG	6	0.0		AGG	3	1.0
+Val	GUU	0	0.0	Ala	GCU	0	0.0	Asp	GAU	0	0.0	Gly	GGU	0	0.0
+	GUC	0	0.0		GCC	0	0.0		GAC	0	0.0		GGC	3	1.0
+	GUA	0	0.0		GCA	6	4.0	Glu	GAA	3	2.0		GGA	6	2.0
+	GUG	0	0.0		GCG	0	0.0		GAG	0	0.0		GGG	3	1.0
+
+Sequence name :  AB000263 |acc=AB000263|descr=Homo sapiens mRNA for prepro cortistatin like peptide, complete cds.|len=368
+
+Phe	UUU	0	0.0	Ser	UCU	4	1.0	Tyr	UAU	0	0.0	Cys	UGU	1	0.0
+	UUC	0	0.0		UCC	3	1.0		UAC	0	0.0		UGC	8	1.0
+Leu	UUA	1	0.0		UCA	2	0.0	Stop	UAA	1	1.0	Stop	UGA	1	1.0
+	UUG	1	0.0		UCG	1	0.0		UAG	1	1.0	Trp	UGG	2	1.0
+	CUU	2	1.0	Pro	CCU	5	0.0	His	CAU	1	0.0	Arg	CGU	0	0.0
+	CUC	1	0.0		CCC	8	1.0		CAC	2	1.0		CGC	1	0.0
+	CUA	0	0.0		CCA	5	0.0	Gln	CAA	0	0.0		CAG	1	2.0
+	CUG	2	1.0		CCG	6	1.0		CAG	1	2.0		CGG	2	1.0
+Iso	AUU	1	1.0	Thr	ACU	1	0.0	Asn	AAU	3	2.0	Ser	AGU	2	0.0
+	AUC	0	0.0		ACC	1	0.0		AAC	0	0.0		AGC	2	0.0
+	AUA	1	1.0		ACA	4	2.0	Lys	AAA	2	0.0	Arg	AGA	2	1.0
+Met	AUG	1	1.0		ACG	0	0.0		AAG	3	1.0		AGG	6	3.0
+Val	GUU	0	0.0	Ala	GCU	1	0.0	Asp	GAU	0	0.0	Gly	GGU	2	0.0
+	GUC	0	0.0		GCC	5	1.0		GAC	1	2.0		GGC	3	1.0
+	GUA	0	0.0		GCA	4	1.0	Glu	GAA	2	1.0		GGA	4	1.0
+	GUG	2	4.0		GCG	2	0.0		GAG	2	1.0		GGG	3	1.0
+

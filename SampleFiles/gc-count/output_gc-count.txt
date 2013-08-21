@@ -1,0 +1,28 @@
+Sequence name :  AB000262 |acc=AB000262|descr=Homo sapiens mRNA for prepro cortistatin like peptide, complete cds.|len=560
+
+Total GC in First Position  9
+Parcentage of GC  27.2727272727
+
+Total GC in Second Position  8
+Parcentage of GC  24.2424242424
+
+Total GC in Third Position  7
+Parcentage of GC  21.2121212121
+
+Total GC in Whole Genome  24
+Parcentage of GC  72.7272727273
+
+Sequence name :  AB000262 |acc=AB000262|descr=Homo sapiens mRNA for prepro cortistatin like peptide, complete cds.|len=560
+
+Total GC in First Position  27
+Parcentage of GC  40.9090909091
+
+Total GC in Second Position  24
+Parcentage of GC  36.3636363636
+
+Total GC in Third Position  21
+Parcentage of GC  31.8181818182
+
+Total GC in Whole Genome  48
+Parcentage of GC  72.7272727273
+
